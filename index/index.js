@@ -1,3 +1,3 @@
 console.log("probando el git");
 
-alert(cambiando mi JS);
+alert("cambiando mi JS");
